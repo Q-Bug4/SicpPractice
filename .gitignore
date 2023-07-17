@@ -1,3 +1,7 @@
+# Intelij
+.idea/
+
+# Lisp Scheme
 *.ss~
 *.ss#*
 .#*.ss
